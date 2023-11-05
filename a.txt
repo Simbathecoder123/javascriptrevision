@@ -1,0 +1,25 @@
+
+<!-- HTML
+
+ doctype - tells the browser the kind of document it will encounter.: html .. means
+the below codes are written in html
+post doctype
+we add <html></html> tag
+between the html tag we have 2 parts
+<head></head>
+<body></body>
+<head> tag has all links to the libraries..-all the files in the folder which
+  need to be linked are also head tag
+  linking anyfiles is done here.. u write title of the page here as well
+
+
+  <body> execution is done here.: suppose u want to create a button or an input box
+    all these codes will go in side <body>tag..-
+      suppose u want to write the javascript codes in the html file. then too
+      the <script> tag for it will go inside the <body> tag.-
+        
+href= hypertext reference.. -->
+
+<!-- <script>-- This tag specifies that codes written within this tag are that of
+  javascript -->
+  <!-- src-- tells the location of the file where it is -->
